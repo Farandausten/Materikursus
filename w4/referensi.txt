@@ -1,0 +1,10 @@
+esemble learning:
+https://www.kaggle.com/pragyanbo/ensemble-learning-methods-using-titanic-dataset
+https://www.kaggle.com/fengdanye/machine-learning-6-basic-ensemble-learning
+
+decision tree & random forest:
+https://www.kaggle.com/faressayah/decision-trees-and-random-forest-for-beginners
+
+
+end to end machine learning:
+https://medium.com/@hwyan0220/end-to-end-machine-learning-project-template-regression-part-2-527c5c90cfd6
