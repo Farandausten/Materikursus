@@ -1,10 +1,22 @@
 esemble learning:
 https://www.kaggle.com/pragyanbo/ensemble-learning-methods-using-titanic-dataset
 https://www.kaggle.com/fengdanye/machine-learning-6-basic-ensemble-learning
+https://www.kaggle.com/faressayah/ensemble-ml-algorithms-bagging-boosting-voting
 
 decision tree & random forest:
+https://www.kaggle.com/prashant111/decision-tree-classifier-tutorial
 https://www.kaggle.com/faressayah/decision-trees-and-random-forest-for-beginners
-
 
 end to end machine learning:
 https://medium.com/@hwyan0220/end-to-end-machine-learning-project-template-regression-part-2-527c5c90cfd6
+https://medium.com/warung-pintar/beberapa-cara-untuk-preprocessing-data-dalam-machine-learning-13cef4294614
+https://ichi.pro/id/mengapa-normalisasi-data-diperlukan-untuk-model-machine-learning-114466878410793
+
+Naive Bayes
+https://www.kaggle.com/prashant111/naive-bayes-classifier-in-python
+https://www.kaggle.com/ahmawad96/titanic-using-naive-bayes
+
+local runtime: jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8888 --NotebookApp.port_retries=0
+https://stackoverflow.com/questions/67244408/connect-to-local-runtime-via-google-colab-with-gpu
+
+GPU: https://www.kaggle.com/vinhnguyen/accelerating-hyper-parameter-searching-with-gpu
